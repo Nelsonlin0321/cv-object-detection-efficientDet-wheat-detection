@@ -1,0 +1,5 @@
+**/*.jpg
+**/*.pth
+**/*.pyc
+**/*.csv
+.DS_Store
